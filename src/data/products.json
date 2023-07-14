@@ -1,0 +1,94 @@
+[
+	{
+		"id": "KrUeP_38w",
+		"title": "Bulbium Red",
+		"description": "Bulbium Red",
+		"code": "BBR2",
+		"price": 450,
+		"status": true,
+		"stock": 20,
+		"category": "Flor ornamental",
+		"thumbnails": []
+	},
+	{
+		"id": "mR5FYc9Ek",
+		"title": "Indranium Baby",
+		"description": "Indranium Baby",
+		"code": "IBB",
+		"price": 4500,
+		"status": true,
+		"stock": 50,
+		"category": "Gramínea",
+		"thumbnails": [
+			"2",
+			"3",
+			"4"
+		]
+	},
+	{
+		"id": "VPulkQZno",
+		"title": "Tulipan",
+		"description": "Tulipan",
+		"code": "TUP",
+		"price": 4500,
+		"status": true,
+		"stock": 50,
+		"category": "Bulbos",
+		"thumbnails": [
+			1,
+			2
+		]
+	},
+	{
+		"id": "U7anh8CnK",
+		"title": "Tulipan Verde",
+		"description": "Tulipan Verde",
+		"code": "TUPV",
+		"price": 10000,
+		"status": true,
+		"stock": 50,
+		"category": "Flores Ornamentales",
+		"thumbnails": []
+	},
+	{
+		"id": "tvLe3P0NO",
+		"title": "Tulipan Verde",
+		"description": "Tulipan Verde",
+		"code": "TUPV2",
+		"price": 10000,
+		"status": true,
+		"stock": 50,
+		"category": "Flores Ornamentales",
+		"thumbnails": [
+			"http://localhost:8080/files/uploads/1687734289016-ABUELO.JPG",
+			"http://localhost:8080/files/uploads/1687734289016-ALEX.JPG",
+			"http://localhost:8080/files/uploads/1687734289016-ELENA.JPG"
+		]
+	},
+	{
+		"id": "BJgYaRkxT",
+		"title": "Tulipan Verde",
+		"description": "Tulipan Verde",
+		"code": "TUPV3",
+		"price": 10000,
+		"status": true,
+		"stock": 50,
+		"category": "Flores Ornamentales",
+		"thumbnails": [
+			"http://localhost:8080/files/uploads/1687735020603-MAGUILA.JPG"
+		]
+	},
+	{
+		"id": "Dc7bggo4I",
+		"title": "Tulipan Verde",
+		"description": "Tulipan Verde",
+		"code": "TUPV4",
+		"price": 10000,
+		"status": true,
+		"stock": 50,
+		"category": "Flores Ornamentales",
+		"thumbnails": [
+			"http://localhost:8080/files/uploads/1687736982166-MAGUILA.JPG"
+		]
+	}
+]
